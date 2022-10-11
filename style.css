@@ -39,7 +39,7 @@ body {
     height: 350px;
     border: 2px solid black;
     border-radius: 5px;
-    grid-template-rows: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
     
 }
 
@@ -47,10 +47,7 @@ body {
     padding-top: 15px;
 }
 
-.card > div {
-    display: grid;
-    
-}
+
 
 .input-container {
 display: flex;
